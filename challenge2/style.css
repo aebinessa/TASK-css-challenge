@@ -11,12 +11,18 @@
     border-radius: 10%;
     text-align: center;
     box-shadow: 10px 10px 10px;
+    width: 400px;
+    height: 300px;
+    overflow: scroll;
+    overflow-wrap: break-word;    
 }
 
 img{
     border-radius: 100%;
     margin: 5%;
 }
-p{
-    margin: 10%;
+
+h1,h3{
+    font-family:fantasy;
+    font-style: italic;
 }
