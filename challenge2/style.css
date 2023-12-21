@@ -20,9 +20,15 @@
 img{
     border-radius: 100%;
     margin: 5%;
+    background-color: aquamarine;
 }
 
 h1,h3{
     font-family:fantasy;
     font-style: italic;
+}
+.div-sticky{
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
