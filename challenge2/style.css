@@ -1,0 +1,22 @@
+.flex-container{
+    background-image:url(/assets/pokemon-bg.jpg);
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    background-color: white;
+    margin: 200px;
+    align-items: center;
+    border-radius: 10%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+
+img{
+    border-radius: 100%;
+    margin: 5%;
+}
+p{
+    margin: 10%;
+}
